@@ -24,6 +24,6 @@ Evolución del proyecto
 
 El sistema evolucionará hacia una arquitectura multiagente con Workers especializados, memoria, integraciones, RAG y mecanismos de supervisión.
 
-Estado: Módulo 1 completado.
+Estado:Checkpoint1 - Módulo 1.
 
 Proyecto académico desarrollado con datos ficticios y conexiones de prueba. No es un sistema productivo.
