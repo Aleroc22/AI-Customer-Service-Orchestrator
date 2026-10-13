@@ -1797,7 +1797,7 @@
     },
     {
       "parameters": {
-        "content": "## M4 sandbox — revisión de checkpoint\nGmail Trigger v1.4: 1 mensaje por poll; IF anti-auto-reply inmediato. Entrada múltiple se rechaza antes de escrituras.\nPruebas reales: HubSpot POST/PATCH, Slack, Gmail Draft, SUPPORT/SERVICE, seguimiento e idempotencia. Consolidación con seis notas sintéticas; formateador probado con evidencia existente.\nEvent_Key persistente; evento previo bloquea repetición. Fallo parcial requiere revisión manual. Sin garantías de concurrencia.\nGmail Draft exclusivamente. CRM sólo emails ficticios example.com/org/net. Scopes efectivos mínimos pendientes de auditoría administrativa.\nINACTIVO. No publicar sin aprobación.",
+        "content": "## M4  — revisión de checkpoint\nGmail Trigger : 1 mensaje por poll; IF anti-auto-reply inmediato. Entrada múltiple se rechaza antes de escrituras.\nPruebas: HubSpot POST/PATCH, Slack, Gmail Draft, SUPPORT/SERVICE, seguimiento e idempotencia. Consolidación con seis notas sintéticas; formateador probado con evidencia existente.\nEvent_Key persistente; evento previo bloquea repetición. Fallo parcial requiere revisión manual. Sin garantías de concurrencia.\n\n",
         "height": 400,
         "width": 650
       },
@@ -2451,8 +2451,8 @@
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
       "position": [
-        5920,
-        4560
+        5888,
+        4640
       ]
     },
     {
@@ -4682,7 +4682,7 @@
     "executionTimeout": 120,
     "availableInMCP": false
   },
-  "versionId": "9cbe1bbf-4539-4603-82f9-996f791f7d58",
+  "versionId": "d08d9968-073c-4d1b-8864-5709d8f56e82",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "db62bd0d79c15e1af73d7c2e2e1b77c9caac729f1a0fe9ad0b106d7fbb43d881"
